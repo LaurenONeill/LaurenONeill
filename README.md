@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @LaurenONeill
-- 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Mobile Developer at Phorest
+
 
 <!---
 LaurenONeill/LaurenONeill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
