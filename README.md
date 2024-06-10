@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaurenONeill
-- 👀 Mobile Developer at Phorest
+
 
 
 <!---
